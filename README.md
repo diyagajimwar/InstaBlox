@@ -18,7 +18,7 @@ pass=yourpassword
 # Running the script
 All set, open command prompt or terminal and run the following code, the bot will start its job
 ````
-./instabot.py
+./instablox.py
 ````
 
 # Contribution
