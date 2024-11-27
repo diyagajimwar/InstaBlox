@@ -1,4 +1,4 @@
-# InstaBot
+# InstaBlox
 An Instagram automation bot using Selenium. The bot can login, like, follow and comment on the posts
 
 # Setup
